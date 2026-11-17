@@ -13,5 +13,6 @@ dependencies = [
     "langchain>=1.5.0",
     "langchain-google-genai>=4.5.0",
     "langchain-ollama>=1.1.0",
+    "langsmith>=0.14.17",
     "python-dotenv>=1.2.4",
 ]
